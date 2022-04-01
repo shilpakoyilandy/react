@@ -1,0 +1,15 @@
+.sideview{
+    /* width: 30px; */
+    display: flex;
+    margin-left: 19px;
+}
+.p{
+    margin-left: 19px;
+}
+.sidediv{
+    margin-right: 15px;
+    width:220px;
+    border-right-style: solid;
+    /* border-left: 4px; */
+    border-color: darkgrey;
+}

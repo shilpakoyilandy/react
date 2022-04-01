@@ -1,0 +1,44 @@
+ export var arr=[{
+    id:'1',
+    img:"./assets/CuteGirl.jpg",
+    name:"shilpa"
+},
+{    id:'2',
+    img:"./assets/smile.jpg",
+    name:"sanu"
+},
+{
+    id:'3',
+    img:"./assets/am.jpg",
+    name:"resmi"
+},
+{
+    id:'4',
+    img:"./assets/cat.jpg",
+    name:"prabi"
+},
+{
+    id:'5',
+    img:"./assets/lotus.jpg",
+    name:"anu"
+},
+{
+    id:'6',
+    img:"./assets/doll.jpg",
+    name:"athi"
+},
+{
+    id:'7',
+    img:"./assets/butterfly.jpg",
+    name:"arun"
+},
+{
+    id:'8',
+    img:"./assets/man.jpg",
+    name:"nithin"
+},
+{
+    id:'9',
+    img:"./assets/cat.jpg",
+    name:"rafi"
+},]

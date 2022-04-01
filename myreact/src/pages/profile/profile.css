@@ -1,0 +1,12 @@
+.profileCircle {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    margin-left: 450px;
+    border: 2px solid white;
+    margin-top: -80px;
+    
+    /* bottom: 0;
+    right: 0; */
+     position: absolute;
+  }

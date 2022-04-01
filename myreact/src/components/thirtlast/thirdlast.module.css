@@ -1,0 +1,26 @@
+.image{
+    height: 60px;
+    width:60px;
+    border-radius: 50%;
+    position: relative;
+}
+.onlinename{
+    padding-top: 18px;
+    /* padding-left: 10px; */
+}
+.topspace{
+    margin-top: 3px;
+}
+.statusCircle {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: green;
+    border: 2px solid white;
+    margin-left: 40px;
+    margin-top: -10px;
+    z-index: -3px;
+    /* bottom: 0;
+    right: 0; */
+    position: absolute;
+  }
